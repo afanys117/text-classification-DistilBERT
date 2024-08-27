@@ -1,5 +1,7 @@
 # Text Classification with Fine-Tuned DistilBERT
 
+![image](images/image001.png)
+
 This project leverages the DistilBERT model from Hugging Face's Transformers library to perform sentiment analysis. The model has been fine-tuned on the IMDb dataset and is used to classify input text into two categories: **Positive** or **Negative**.
 
 ## Features
